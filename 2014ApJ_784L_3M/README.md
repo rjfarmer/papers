@@ -1,0 +1,5 @@
+#Link
+http://adsabs.harvard.edu/abs/2014ApJ...784L...3M
+
+#Abstract
+Asteroseismology may in principle be used to detect unresolved stellar binary systems comprised of solar-type stars and/or red giants. This novel method relies on the detection of the presence of two solar-like oscillation spectra in the frequency spectrum of a single light curve. Here, we make predictions of the numbers of systems that may be detectable in data already collected by the NASA Kepler Mission. Our predictions, which are based upon TRILEGAL and BiSEPS simulations of the Kepler field of view, indicate that as many as 200 or more "asteroseismic binaries" may be detectable in this manner. Most of these binaries should be comprised of two He-core-burning red giants. Owing largely to the limited numbers of targets with the requisite short-cadence Kepler data, we expect only a small number of detected binaries containing solar-type stars. The predicted yield of detections is sensitive to the assumed initial mass ratio distribution (IMRD) of the binary components and therefore represents a sensitive calibration of the much debated IMRD near mass ratio unity. 
